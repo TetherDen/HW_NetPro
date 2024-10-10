@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_01\TcpServer\bin\Debug\net8.0\TcpServer.exe
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_01\TcpServer\bin\Debug\net8.0\TcpServer.deps.json
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_01\TcpServer\bin\Debug\net8.0\TcpServer.runtimeconfig.json
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_01\TcpServer\bin\Debug\net8.0\TcpServer.dll
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_01\TcpServer\bin\Debug\net8.0\TcpServer.pdb
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_01\TcpServer\obj\Debug\net8.0\TcpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_01\TcpServer\obj\Debug\net8.0\TcpServer.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_01\TcpServer\obj\Debug\net8.0\TcpServer.AssemblyInfo.cs
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_01\TcpServer\obj\Debug\net8.0\TcpServer.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_01\TcpServer\obj\Debug\net8.0\TcpServer.dll
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_01\TcpServer\obj\Debug\net8.0\refint\TcpServer.dll
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_01\TcpServer\obj\Debug\net8.0\TcpServer.pdb
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_01\TcpServer\obj\Debug\net8.0\TcpServer.genruntimeconfig.cache
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_01\TcpServer\obj\Debug\net8.0\ref\TcpServer.dll
