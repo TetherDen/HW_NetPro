@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_02\Exchanger_Client\bin\Debug\net8.0-windows\Exchanger_Client.exe
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_02\Exchanger_Client\bin\Debug\net8.0-windows\Exchanger_Client.deps.json
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_02\Exchanger_Client\bin\Debug\net8.0-windows\Exchanger_Client.runtimeconfig.json
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_02\Exchanger_Client\bin\Debug\net8.0-windows\Exchanger_Client.dll
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_02\Exchanger_Client\bin\Debug\net8.0-windows\Exchanger_Client.pdb
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_02\Exchanger_Client\obj\Debug\net8.0-windows\Exchanger_Client.Form1.resources
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_02\Exchanger_Client\obj\Debug\net8.0-windows\Exchanger_Client.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_02\Exchanger_Client\obj\Debug\net8.0-windows\Exchanger_Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_02\Exchanger_Client\obj\Debug\net8.0-windows\Exchanger_Client.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_02\Exchanger_Client\obj\Debug\net8.0-windows\Exchanger_Client.AssemblyInfo.cs
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_02\Exchanger_Client\obj\Debug\net8.0-windows\Exchanger_Client.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_02\Exchanger_Client\obj\Debug\net8.0-windows\Exchanger_Client.sourcelink.json
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_02\Exchanger_Client\obj\Debug\net8.0-windows\Exchanger_Client.dll
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_02\Exchanger_Client\obj\Debug\net8.0-windows\refint\Exchanger_Client.dll
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_02\Exchanger_Client\obj\Debug\net8.0-windows\Exchanger_Client.pdb
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_02\Exchanger_Client\obj\Debug\net8.0-windows\Exchanger_Client.genruntimeconfig.cache
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_02\Exchanger_Client\obj\Debug\net8.0-windows\ref\Exchanger_Client.dll

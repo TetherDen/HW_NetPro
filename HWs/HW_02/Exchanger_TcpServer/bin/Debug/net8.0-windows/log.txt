@@ -1,0 +1,9 @@
+Новый клиент подключен 127.0.0.1:49780,  DateTime: 13.10.2024 00:15:24
+127.0.0.1:49780 requested: BTC USD, and get response 63132
+127.0.0.1:49780 requested: UAH USD, and get response 0,027
+127.0.0.1:49780 requested: BTC USD, and get response 63132
+Disconnection 127.0.0.1:49780 at 13.10.2024 00:15:36 
+Новый клиент подключен 127.0.0.1:49793,  DateTime: 13.10.2024 00:16:39
+127.0.0.1:49793 requested: BTC USD, and get response 63132
+127.0.0.1:49793 requested: BTC USD, and get response 63132
+Disconnection 127.0.0.1:49793 at 13.10.2024 00:16:48 

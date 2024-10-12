@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_02\Exchanger_TcpServer\bin\Debug\net8.0-windows\Exchanger_TcpServer.exe
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_02\Exchanger_TcpServer\bin\Debug\net8.0-windows\Exchanger_TcpServer.deps.json
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_02\Exchanger_TcpServer\bin\Debug\net8.0-windows\Exchanger_TcpServer.runtimeconfig.json
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_02\Exchanger_TcpServer\bin\Debug\net8.0-windows\Exchanger_TcpServer.dll
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_02\Exchanger_TcpServer\bin\Debug\net8.0-windows\Exchanger_TcpServer.pdb
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_02\Exchanger_TcpServer\obj\Debug\net8.0-windows\Exchanger_TcpServer.Form1.resources
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_02\Exchanger_TcpServer\obj\Debug\net8.0-windows\Exchanger_TcpServer.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_02\Exchanger_TcpServer\obj\Debug\net8.0-windows\Exchanger_TcpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_02\Exchanger_TcpServer\obj\Debug\net8.0-windows\Exchanger_TcpServer.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_02\Exchanger_TcpServer\obj\Debug\net8.0-windows\Exchanger_TcpServer.AssemblyInfo.cs
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_02\Exchanger_TcpServer\obj\Debug\net8.0-windows\Exchanger_TcpServer.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_02\Exchanger_TcpServer\obj\Debug\net8.0-windows\Exchanger_TcpServer.sourcelink.json
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_02\Exchanger_TcpServer\obj\Debug\net8.0-windows\Exchanger_TcpServer.dll
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_02\Exchanger_TcpServer\obj\Debug\net8.0-windows\refint\Exchanger_TcpServer.dll
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_02\Exchanger_TcpServer\obj\Debug\net8.0-windows\Exchanger_TcpServer.pdb
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_02\Exchanger_TcpServer\obj\Debug\net8.0-windows\Exchanger_TcpServer.genruntimeconfig.cache
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_02\Exchanger_TcpServer\obj\Debug\net8.0-windows\ref\Exchanger_TcpServer.dll
