@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Exchanger_Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff1f3221fbb8ca472cca5b66b03ee453abd94bf7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb41d610efe1358c1a37603b0c5d3dbbb68209a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Exchanger_Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Exchanger_Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

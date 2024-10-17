@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_03\HW_03_Client\bin\Debug\net8.0\HW_03_Client.exe
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_03\HW_03_Client\bin\Debug\net8.0\HW_03_Client.deps.json
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_03\HW_03_Client\bin\Debug\net8.0\HW_03_Client.runtimeconfig.json
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_03\HW_03_Client\bin\Debug\net8.0\HW_03_Client.dll
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_03\HW_03_Client\bin\Debug\net8.0\HW_03_Client.pdb
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_03\HW_03_Client\obj\Debug\net8.0\HW_03_Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_03\HW_03_Client\obj\Debug\net8.0\HW_03_Client.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_03\HW_03_Client\obj\Debug\net8.0\HW_03_Client.AssemblyInfo.cs
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_03\HW_03_Client\obj\Debug\net8.0\HW_03_Client.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_03\HW_03_Client\obj\Debug\net8.0\HW_03_Client.sourcelink.json
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_03\HW_03_Client\obj\Debug\net8.0\HW_03_Client.dll
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_03\HW_03_Client\obj\Debug\net8.0\refint\HW_03_Client.dll
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_03\HW_03_Client\obj\Debug\net8.0\HW_03_Client.pdb
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_03\HW_03_Client\obj\Debug\net8.0\HW_03_Client.genruntimeconfig.cache
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_03\HW_03_Client\obj\Debug\net8.0\ref\HW_03_Client.dll
