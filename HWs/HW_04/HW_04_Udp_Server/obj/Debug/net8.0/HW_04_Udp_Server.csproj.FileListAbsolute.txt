@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_04\HW_04_Udp_Server\bin\Debug\net8.0\HW_04_Udp_Server.exe
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_04\HW_04_Udp_Server\bin\Debug\net8.0\HW_04_Udp_Server.deps.json
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_04\HW_04_Udp_Server\bin\Debug\net8.0\HW_04_Udp_Server.runtimeconfig.json
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_04\HW_04_Udp_Server\bin\Debug\net8.0\HW_04_Udp_Server.dll
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_04\HW_04_Udp_Server\bin\Debug\net8.0\HW_04_Udp_Server.pdb
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_04\HW_04_Udp_Server\obj\Debug\net8.0\HW_04_Udp_Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_04\HW_04_Udp_Server\obj\Debug\net8.0\HW_04_Udp_Server.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_04\HW_04_Udp_Server\obj\Debug\net8.0\HW_04_Udp_Server.AssemblyInfo.cs
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_04\HW_04_Udp_Server\obj\Debug\net8.0\HW_04_Udp_Server.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_04\HW_04_Udp_Server\obj\Debug\net8.0\HW_04_Udp_Server.sourcelink.json
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_04\HW_04_Udp_Server\obj\Debug\net8.0\HW_04_Udp_Server.dll
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_04\HW_04_Udp_Server\obj\Debug\net8.0\refint\HW_04_Udp_Server.dll
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_04\HW_04_Udp_Server\obj\Debug\net8.0\HW_04_Udp_Server.pdb
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_04\HW_04_Udp_Server\obj\Debug\net8.0\HW_04_Udp_Server.genruntimeconfig.cache
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_04\HW_04_Udp_Server\obj\Debug\net8.0\ref\HW_04_Udp_Server.dll
