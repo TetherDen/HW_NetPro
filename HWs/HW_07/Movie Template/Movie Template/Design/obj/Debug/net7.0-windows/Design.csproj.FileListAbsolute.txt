@@ -1,0 +1,62 @@
+C:\Users\Leonid\Desktop\Design\Design\bin\Debug\net7.0-windows\Design.exe
+C:\Users\Leonid\Desktop\Design\Design\bin\Debug\net7.0-windows\Design.deps.json
+C:\Users\Leonid\Desktop\Design\Design\bin\Debug\net7.0-windows\Design.runtimeconfig.json
+C:\Users\Leonid\Desktop\Design\Design\bin\Debug\net7.0-windows\Design.dll
+C:\Users\Leonid\Desktop\Design\Design\bin\Debug\net7.0-windows\Design.pdb
+C:\Users\Leonid\Desktop\Design\Design\obj\Debug\net7.0-windows\Design.Form1.resources
+C:\Users\Leonid\Desktop\Design\Design\obj\Debug\net7.0-windows\Design.Forms.Customer.resources
+C:\Users\Leonid\Desktop\Design\Design\obj\Debug\net7.0-windows\Design.Forms.Notifications.resources
+C:\Users\Leonid\Desktop\Design\Design\obj\Debug\net7.0-windows\Design.Forms.Orders.resources
+C:\Users\Leonid\Desktop\Design\Design\obj\Debug\net7.0-windows\Design.Forms.Products.resources
+C:\Users\Leonid\Desktop\Design\Design\obj\Debug\net7.0-windows\Design.Forms.Reporting.resources
+C:\Users\Leonid\Desktop\Design\Design\obj\Debug\net7.0-windows\Design.Forms.Settings.resources
+C:\Users\Leonid\Desktop\Design\Design\obj\Debug\net7.0-windows\Design.Properties.Resources.resources
+C:\Users\Leonid\Desktop\Design\Design\obj\Debug\net7.0-windows\Design.csproj.GenerateResource.cache
+C:\Users\Leonid\Desktop\Design\Design\obj\Debug\net7.0-windows\Design.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonid\Desktop\Design\Design\obj\Debug\net7.0-windows\Design.AssemblyInfoInputs.cache
+C:\Users\Leonid\Desktop\Design\Design\obj\Debug\net7.0-windows\Design.AssemblyInfo.cs
+C:\Users\Leonid\Desktop\Design\Design\obj\Debug\net7.0-windows\Design.csproj.CoreCompileInputs.cache
+C:\Users\Leonid\Desktop\Design\Design\obj\Debug\net7.0-windows\Design.dll
+C:\Users\Leonid\Desktop\Design\Design\obj\Debug\net7.0-windows\refint\Design.dll
+C:\Users\Leonid\Desktop\Design\Design\obj\Debug\net7.0-windows\Design.pdb
+C:\Users\Leonid\Desktop\Design\Design\obj\Debug\net7.0-windows\Design.genruntimeconfig.cache
+C:\Users\Leonid\Desktop\Design\Design\obj\Debug\net7.0-windows\ref\Design.dll
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_07\Movie Template\Movie Template\Design\bin\Debug\net7.0-windows\appsettings.json
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_07\Movie Template\Movie Template\Design\bin\Debug\net7.0-windows\Design.exe
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_07\Movie Template\Movie Template\Design\bin\Debug\net7.0-windows\Design.deps.json
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_07\Movie Template\Movie Template\Design\bin\Debug\net7.0-windows\Design.runtimeconfig.json
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_07\Movie Template\Movie Template\Design\bin\Debug\net7.0-windows\Design.dll
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_07\Movie Template\Movie Template\Design\bin\Debug\net7.0-windows\Design.pdb
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_07\Movie Template\Movie Template\Design\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_07\Movie Template\Movie Template\Design\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_07\Movie Template\Movie Template\Design\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_07\Movie Template\Movie Template\Design\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_07\Movie Template\Movie Template\Design\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_07\Movie Template\Movie Template\Design\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_07\Movie Template\Movie Template\Design\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_07\Movie Template\Movie Template\Design\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_07\Movie Template\Movie Template\Design\bin\Debug\net7.0-windows\System.Text.Encodings.Web.dll
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_07\Movie Template\Movie Template\Design\bin\Debug\net7.0-windows\System.Text.Json.dll
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_07\Movie Template\Movie Template\Design\bin\Debug\net7.0-windows\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_07\Movie Template\Movie Template\Design\obj\Debug\net7.0-windows\Design.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_07\Movie Template\Movie Template\Design\obj\Debug\net7.0-windows\Design.Form1.resources
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_07\Movie Template\Movie Template\Design\obj\Debug\net7.0-windows\Design.Forms.Customer.resources
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_07\Movie Template\Movie Template\Design\obj\Debug\net7.0-windows\Design.Forms.Notifications.resources
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_07\Movie Template\Movie Template\Design\obj\Debug\net7.0-windows\Design.Forms.Orders.resources
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_07\Movie Template\Movie Template\Design\obj\Debug\net7.0-windows\Design.Forms.Products.resources
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_07\Movie Template\Movie Template\Design\obj\Debug\net7.0-windows\Design.Forms.Reporting.resources
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_07\Movie Template\Movie Template\Design\obj\Debug\net7.0-windows\Design.Forms.Settings.resources
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_07\Movie Template\Movie Template\Design\obj\Debug\net7.0-windows\Design.Properties.Resources.resources
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_07\Movie Template\Movie Template\Design\obj\Debug\net7.0-windows\Design.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_07\Movie Template\Movie Template\Design\obj\Debug\net7.0-windows\Design.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_07\Movie Template\Movie Template\Design\obj\Debug\net7.0-windows\Design.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_07\Movie Template\Movie Template\Design\obj\Debug\net7.0-windows\Design.AssemblyInfo.cs
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_07\Movie Template\Movie Template\Design\obj\Debug\net7.0-windows\Design.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_07\Movie Template\Movie Template\Design\obj\Debug\net7.0-windows\Design.sourcelink.json
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_07\Movie Template\Movie Template\Design\obj\Debug\net7.0-windows\Design.csproj.Up2Date
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_07\Movie Template\Movie Template\Design\obj\Debug\net7.0-windows\Design.dll
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_07\Movie Template\Movie Template\Design\obj\Debug\net7.0-windows\refint\Design.dll
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_07\Movie Template\Movie Template\Design\obj\Debug\net7.0-windows\Design.pdb
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_07\Movie Template\Movie Template\Design\obj\Debug\net7.0-windows\Design.genruntimeconfig.cache
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_07\Movie Template\Movie Template\Design\obj\Debug\net7.0-windows\ref\Design.dll
+C:\Users\admin\source\repos\Network_Programming\HWs\HWs\HW_07\Movie Template\Movie Template\Design\bin\Debug\net7.0-windows\Newtonsoft.Json.dll

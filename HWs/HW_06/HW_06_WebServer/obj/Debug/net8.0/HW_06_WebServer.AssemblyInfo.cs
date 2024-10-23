@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HW_06_WebServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6f5a79b92f12c83f28e5074c0601a82d089e7e0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63e7c34e7dc0c02ed10b6815bcd13d90ee1e7552")]
 [assembly: System.Reflection.AssemblyProductAttribute("HW_06_WebServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HW_06_WebServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

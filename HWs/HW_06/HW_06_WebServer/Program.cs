@@ -14,7 +14,7 @@ app.MapPost("/auth", async (HttpContext httpContext) =>
 
     // ......  Тут логика проверки и добавления пользователя в БД
 
-    // Возращаем данные
+    // Возвращаем данные
     await httpContext.Response.WriteAsync($"Name: {name}   Email:{email}    Password: {password}");
 });
 
