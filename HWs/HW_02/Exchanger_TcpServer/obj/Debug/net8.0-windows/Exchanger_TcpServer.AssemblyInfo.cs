@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Exchanger_TcpServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ada6be06e570d7f85591e1608405ee3dd2c11f72")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24f065499b2a6f56ee7e17ca016f5e497039a261")]
 [assembly: System.Reflection.AssemblyProductAttribute("Exchanger_TcpServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Exchanger_TcpServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
